@@ -14,3 +14,6 @@ Première modif par ejomphe avec repo privé
 5e modif fait par polychum modif git config (TRUE, sans protection)
 
 6e modif fait par ejomphe (protection applique pas ``aa admin)
+
+
+7e modif fait par polychum avec protection branche
